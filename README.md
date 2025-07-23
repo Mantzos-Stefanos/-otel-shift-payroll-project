@@ -31,7 +31,8 @@
 ![WBS](./WBS.png)
 
 ### Gantt Chart
-![Gantt Chart](./gantt chart.png)
+![Gantt Chart](./gantt%20chart.png)
+
 
 ### Project Overview
 ![Project Overview](./project-overview.png)
