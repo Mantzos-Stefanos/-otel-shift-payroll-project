@@ -25,17 +25,18 @@
 
 Ανοίξτε το PDF για να δείτε την αναλυτική περιγραφή του project.
 
+
 ## Project Visuals
 
 ### Work Breakdown Structure (WBS)
-![WBS](./WBS.png)
+<img src="./WBS.png" alt="WBS" width="600"/>
 
 ### Gantt Chart
-![Gantt Chart](./gantt%20chart.png)
-
+<img src="./gantt%20chart.png" alt="Gantt Chart" width="600"/>
 
 ### Project Overview
-![Project Overview](./project-overview.png)
+<img src="./project-overview.png" alt="Project Overview" width="600"/>
+
 
 
 
