@@ -1,5 +1,3 @@
-<img width="330" height="116" alt="image" src="https://github.com/user-attachments/assets/0f137d93-6c9b-4ba9-af36-9a34006186fc" /># Hotel Staff Shift and Payroll Management System
-
 Αυτό το project αφορά την ανάπτυξη ενός συστήματος διαχείρισης βαρδιών και μισθοδοσίας προσωπικού ξενοδοχείου.  
 Στόχος είναι η αυτοματοποίηση και βελτιστοποίηση των διαδικασιών διαχείρισης προσωπικού, με μείωση σφαλμάτων και εξοικονόμηση χρόνου.
 
@@ -30,11 +28,10 @@
 ## Project Visuals
 
 ### Work Breakdown Structure (WBS)
-![WBS](./WBS.png)
 
 ### Gantt Chart
-![Gantt Chart](./gantt chart.png)
+
 
 ### Project Overview
-![Project Overview](./project-overview.png)
+
 
