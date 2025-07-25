@@ -3,14 +3,20 @@
 
 ---
 
-## Πιστοποίηση
-
-Αυτό το project υλοποιήθηκε στα πλαίσια της πιστοποίησης:
+### Πιστοποίηση
 
 **Project Management Principles and Practices**  
 από το University of California Irvine (UCI)
 
-Το επίσημο πιστοποιητικό θα προστεθεί σε αυτό το αποθετήριο μόλις εκδοθεί.
+Η ειδίκευση αυτή περιλαμβάνει τα εξής 4 μαθήματα:
+
+- Initiating and Planning Projects  
+- Budgeting and Scheduling Projects  
+- Managing Project Risks and Changes  
+- Project Management Project
+
+[Δες το επίσημο πιστοποιητικό μου στο Coursera](https://coursera.org/share/fd2d05339dc6f43fb27d33ae8e0cf200)
+
 
 ---
 
