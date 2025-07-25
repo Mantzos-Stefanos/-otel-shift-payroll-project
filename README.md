@@ -16,16 +16,11 @@
 - Project Management Project
 
 [Δες το επίσημο πιστοποιητικό μου στο Coursera](https://coursera.org/share/fd2d05339dc6f43fb27d33ae8e0cf200)
+[Κατέβασε το πιστοποιητικό σε PDF](./Project_Management_Certification.pdf)
 
 
 ---
 
-## Περιεχόμενα
-
-- Αρχείο PDF με το Project Management
-- (Μελλοντικά) Πιστοποιητικό ολοκλήρωσης
-
----
 
 ## Χρήση
 
